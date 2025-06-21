@@ -1,0 +1,2 @@
+git add bun.lockb
+git commit -m "Add bun.lockb for locked dependencies"
