@@ -1,0 +1,8 @@
+<!-- public/placeholder.svg -->
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="58" fill="#E0E0E0" stroke="#BDBDBD" stroke-width="4"/>
+  <circle cx="60" cy="45" r="20" fill="#BDBDBD"/>
+  <path d="M20 110c0-22 20-35 40-35s40 13 40 35" fill="#BDBDBD"/>
+</svg>
+
+<img src="/placeholder.svg" alt="Placeholder" />
